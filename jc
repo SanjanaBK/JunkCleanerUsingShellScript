@@ -1,4 +1,12 @@
 #!/bin/bash
+#Authors
+#Sanjana B
+#Shamitha S
+#Suraksha 
+#Sowmya R
+#IT 3rd Sem
+#B.Tech
+#NITK
 #When only jc command is entered
 if [ -z $1 ]
 then	
