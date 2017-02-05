@@ -7,3 +7,5 @@ This junk cleaner allows the user to clean junk in a systematic manner.  Specifi
 5.Small scale Uninstaller
 6.Periodic junk removal from trash folder
 To perform anyone of the above tasks the user needs to enter the required commands with relevant filenames and options.
+Man page:
+jc.1.gz can be moved to one of the manpaths and information about the junkcleaner can be accessed using man jc. 
